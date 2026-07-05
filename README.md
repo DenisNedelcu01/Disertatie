@@ -28,4 +28,5 @@ To evaluate their performance across varying levels of volatility, the pipeline 
 │   └── test_and_plot.py   # Out-of-sample inference, error evaluation & plotting
 ├── documentation.docx    # Documentation of the project
 ├── requirements.txt       # Environment software dependencies log
+├── presentation.pptx      # Final presentation for the thesis
 └── README.md              # Project documentation repository index
